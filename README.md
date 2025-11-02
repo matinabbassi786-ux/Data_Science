@@ -50,14 +50,14 @@
 
 
   
-  ## 10. Data Pipelines & MLOps
+## 10. Data Pipelines & MLOps
   - Model deployment (Flask, FastAPI)
   - CI/CD pipelines, Docker, Kubernetes
   -  Model monitoring and retrainin
 
 
 
-  ## 11. Business Intelligence & Data Storytelling
+## 11. Business Intelligence & Data Storytelling
   - Communicating insights
   - Dashboard design, KPIs and metrics
   - Decision support system
